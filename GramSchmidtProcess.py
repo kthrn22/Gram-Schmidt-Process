@@ -17,10 +17,3 @@ def GramSchmidt(vectors):
         v /= magnitude(v)
         basis.append(v)
     return np.array(basis)
-
-
-
-
-
-
-
