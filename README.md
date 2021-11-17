@@ -1,1 +1,1 @@
-# Gram-Schmidt-Process
+# Gram Schmidt Process
